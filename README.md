@@ -1,3 +1,14 @@
+DEPRECATED
+
+
+
+
+
+
+
+
+
+
 # Unity-Project-Management-Snippets
 
 ## UTIL_FindAndRemoveMissingReferencesEditorExtension.cs
